@@ -30,9 +30,9 @@ const Slippage = (props: {}) => {
       style={{ display: "flex", flexDirection: "row", alignItems: "center" }}
     >
       {[0.1, 0.5, 1.0].map((item) => {
-        return (
+      return (
           <Button
-            key={item.toString()}
+             key={item.toString()}
             style={itemStyle}
             type={isSelected(item)}
             onClick={() => setSlippage(item / 100.0)}

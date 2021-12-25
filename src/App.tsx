@@ -6,31 +6,14 @@ import { Routes } from "./routes";
 function App() {
   return (
     <div className="App">
-      <div className="Banner">
-        <div className="Banner-description">
-         This is the beta version of Dint Exchange 
-        </div>
-      </div>
+   
       <Routes />
       <div className="social-buttons">
-        <GitHubButton
-          href="https://github.com/dintapp/oyster-swap"
-          data-color-scheme="no-preference: light; light: light; dark: light;"
-          data-icon="octicon-star"
-          data-size="large"
-          data-show-count={true}
-          aria-label="Star solana-labs/oyster-swap on GitHub"
-        >
-          Star
-        </GitHubButton>
-        <GitHubButton
-          href="https://github.com/dintapp/oyster-swap"
-          data-color-scheme="no-preference: light; light: light; dark: light;"
-          data-size="large"
-          aria-label="Fork project-serum/oyster-swap on GitHub"
-        >
-          Fork
-        </GitHubButton>
+    	<p>Copyright © 2021. All Rights Reserved by Dint
+							</p>
+
+
+    
       </div>
     </div>
   );

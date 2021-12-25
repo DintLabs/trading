@@ -71,7 +71,7 @@ export const ExchangeView = (props: {}) => {
           )}
         </div>
       { 
-            <Popover
+          /*  <Popover
             placement="topRight"
             title="Settings"
             content={<Settings />}
@@ -83,7 +83,7 @@ export const ExchangeView = (props: {}) => {
               type="text"
               icon={<SettingOutlined />}
             />
-          </Popover>
+          </Popover>*/
        }  
       </div>
     </div>
