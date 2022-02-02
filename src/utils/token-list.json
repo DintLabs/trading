@@ -7,6 +7,13 @@
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png"
     },
     {
+      "tokenSymbol": "DCT",
+      "mintAddress": "8KzT4VfvzULfbyAE8PS7qzD3zNv6v2Bb4sKMx2v4Qu8e",
+      "tokenName": "Dintcoin",
+      "icon": "https://raw.githubusercontent.com/dintapp/dintcoin/main/dintcoin-logo.png"
+    },
+
+    {
       "tokenSymbol": "BTC",
       "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "tokenName": "Wrapped Bitcoin",
@@ -133,12 +140,6 @@
       "mintAddress": "BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW",
       "tokenName": "Wrapped USDC",
       "icon": "https://raw.githubusercontent.com/trustwallet/assets/f3ffd0b9ae2165336279ce2f8db1981a55ce30f8/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "tokenSymbol": "DCT",
-      "mintAddress": "8KzT4VfvzULfbyAE8PS7qzD3zNv6v2Bb4sKMx2v4Qu8e",
-      "tokenName": "Dintcoin",
-      "icon": "https://raw.githubusercontent.com/dintapp/dintcoin/main/dintcoin-logo.png"
     }
 
   ],
